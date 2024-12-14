@@ -24,12 +24,4 @@ for i,question in enumerate(game,1):
             winPrize=winPrize+10000
     else:
         print(f"\n\n\t\t\t\t\t\t\tWRONG ANSWER\nYOU LOOSE {winPrize} \n BETTER LUCK NEXT TIME ")
-        break   
-
-
-
-
-
-
-        
-
+        break
