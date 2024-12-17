@@ -23,7 +23,7 @@ game= [
     {
         "question": "Which of the following is the largest planet in our Solar System?",
         "options": ["a) Earth", "b) Mars", "c) Jupiter", "d) Saturn"],
-        "answer": "cr"
+        "answer": "c"
     },
     {
         "question": "What is the value of 2 to the power of 3 (2³)?",

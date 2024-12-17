@@ -33,4 +33,6 @@ for i,question in enumerate(game,1):  # this loop will iterate through list of q
         print("\n"+f"WRONG ANSWER".center(terminal_width))
         print(f"YOU LOOSE {winPrize}")
         print("BETTER LUCK NEXT TIME".center(terminal_width))
-    break
+        break
+
+print("\n"+f"YOU TAKE Rs{winPrize} AT HOME!!!".center(terminal_width))
